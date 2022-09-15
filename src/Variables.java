@@ -2,7 +2,7 @@ public class Variables
 {
     public static void main ( String[] args )
     {
-        //define 1 variable of each of the following data types byte	short		int 	long  float	 double   char    boolean	String
+        //define 1 variable of each of the following data types byte    short   int   long    float   double  char   boolean   String
         byte value = 30;
         short anotherValue = 1000;
         int mostPopularValue = 123443;
