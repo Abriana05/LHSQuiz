@@ -1,21 +1,27 @@
+import java.util.Scanner;
 public class Main {
-    public static void main(String[] args) {
-        //define 1 variable of each of the
-        //following data types
-        //byte	short		int 		long
-        //float	double
-        //char      boolean	String
 
-        //integer variables
-        byte byteOne = 127;
+}
+public class Input{
+    public static void main (String[] args){
+        Scanner keyboard = new Scanner(System.in);
 
-        System.out.println("/////////////////////////////////");
-        System.out.println("*Some Person            07/18/22*");
-        System.out.println("*                               *");
-        System.out.println("*        integer types          *");
-        System.out.println("*                               *");
-        System.out.println("*8 bit - byteOne = "+byteOne+"\t\t*");
+        int intOne, intTwo;
+        //add more variables, at least 2 of each type:
+        //double, float, short, String
 
+        System.out.println("Enter an integer :: ");
+        intOne = keyboard.nextInt();
 
+        System.out.println("Enter an integer :: ");
+        intTwo = keyboard.nextInt();
+
+        //add in input for all variables
+
+        System.out.println();
+        System.out.println("integer one = " + intOne );
+        System.out.println("integer two = " + intTwo );
+
+        //add output for all variables
     }
 }
