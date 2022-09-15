@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6cda140-ebb3-40e0-ab10-9c782764d637" name="Changes" comment="Lab Variables Complete?">
+    <list default="true" id="a6cda140-ebb3-40e0-ab10-9c782764d637" name="Changes" comment="Class 'Input' is public, should be declared in a file named 'Input.java' (??)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LHS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663248960778</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Class 'Input' is public, should be declared in a file named 'Input.java'">
+      <created>1663249817670</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663249817670</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Class 'Input' is public, should be declared in a file named 'Input.java' (??)">
+      <created>1663249915000</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663249915000</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +143,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab Variables Complete??" />
     <MESSAGE value="Lab Variables Complete?" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab Variables Complete?" />
+    <MESSAGE value="Class 'Input' is public, should be declared in a file named 'Input.java'" />
+    <MESSAGE value="Class 'Input' is public, should be declared in a file named 'Input.java' (??)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class 'Input' is public, should be declared in a file named 'Input.java' (??)" />
   </component>
 </project>

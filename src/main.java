@@ -1,19 +1,18 @@
 import java.util.Scanner;
-public class Main {
-
-}
-public class Input{
-    public static void main (String[] args){
+class Input
+{
+    public static void main (String[] args)
+    {
         Scanner keyboard = new Scanner(System.in);
 
         int intOne, intTwo;
         //add more variables, at least 2 of each type:
         //double, float, short, String
 
-        System.out.println("Enter an integer :: ");
+        System.out.print("Enter an integer :: ");
         intOne = keyboard.nextInt();
 
-        System.out.println("Enter an integer :: ");
+        System.out.print("Enter an integer :: ");
         intTwo = keyboard.nextInt();
 
         //add in input for all variables
@@ -23,5 +22,7 @@ public class Input{
         System.out.println("integer two = " + intTwo );
 
         //add output for all variables
+
+
     }
 }
