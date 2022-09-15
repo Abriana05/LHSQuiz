@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6cda140-ebb3-40e0-ab10-9c782764d637" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LHS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Variables.java" afterDir="false" />
+    <list default="true" id="a6cda140-ebb3-40e0-ab10-9c782764d637" name="Changes" comment="Lab Variables Complete?">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LHS.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +51,14 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Variables">
+  <component name="RunManager" selected="Application.Input">
+    <configuration name="Input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Input" />
+      <module name="LHS Quiz" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LHS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LHS" />
       <module name="LHS Quiz" />
@@ -77,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Input" />
         <item itemvalue="Application.Variables" />
         <item itemvalue="Application.LHS" />
         <item itemvalue="Application.Main" />
@@ -92,6 +98,21 @@
       <option name="presentableId" value="Default" />
       <updated>1662989725549</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lab Variables Complete??">
+      <created>1663248850088</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663248850088</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Lab Variables Complete?">
+      <created>1663248960778</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663248960778</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,5 +125,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lab Variables Complete??" />
+    <MESSAGE value="Lab Variables Complete?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab Variables Complete?" />
   </component>
 </project>
