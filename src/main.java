@@ -8,6 +8,15 @@ class Input
         int intOne, intTwo;
         //add more variables, at least 2 of each type:
         //double, float, short, String
+        double popularRealValue = 2048;
+        double popularValue = 10923;
+        float realValue = 48.5f;
+        float anotherRealValue = 974.12f;
+        short anotherValue = 84;
+        short anotherPopularValue = 34;
+        String animalName = "Buddy";
+
+
 
         System.out.print("Enter an integer :: ");
         intOne = keyboard.nextInt();
