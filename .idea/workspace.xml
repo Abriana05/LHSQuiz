@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6cda140-ebb3-40e0-ab10-9c782764d637" name="Changes" comment="Class 'Input' is public, FIXED">
+    <list default="true" id="a6cda140-ebb3-40e0-ab10-9c782764d637" name="Changes" comment="defined variables">
+      <change afterPath="$PROJECT_DIR$/src/Input.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.Variables">
+  <component name="RunManager" selected="Application.Input">
     <configuration name="Input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Input" />
       <module name="LHS Quiz" />
@@ -82,8 +83,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Variables" />
         <item itemvalue="Application.Input" />
+        <item itemvalue="Application.Variables" />
         <item itemvalue="Application.LHS" />
         <item itemvalue="Application.Main" />
       </list>
@@ -133,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663250362713</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="defined variables">
+      <created>1663335974974</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663335974974</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,6 +161,7 @@
     <MESSAGE value="Class 'Input' is public, should be declared in a file named 'Input.java'" />
     <MESSAGE value="Class 'Input' is public, should be declared in a file named 'Input.java' (??)" />
     <MESSAGE value="Class 'Input' is public, FIXED" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class 'Input' is public, FIXED" />
+    <MESSAGE value="defined variables" />
+    <option name="LAST_COMMIT_MESSAGE" value="defined variables" />
   </component>
 </project>
