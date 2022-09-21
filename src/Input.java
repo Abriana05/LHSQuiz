@@ -43,23 +43,18 @@ public class Input
         System.out.println("Do you have siblings?" );
         int yesNo = keyboard.nextInt();
 
-
-        //System.out.println("Press ENTER to see your answers.");
         keyboard.nextLine();
 
-
-
-
         System.out.println("Your Name is " + name);
-        System.out.println("You attend " + school );
+        System.out.println("You attend " + school);
         System.out.println("You know " + piVal + " is Pi");
+        System.out.println("You are :: " + age);
+        System.out.println("You like the number :: " + like);
+        System.out.println("You don't like the number :: " + hate);
+        System.out.println("The biggest number you know is :: " + longest);
+        System.out.println("The biggest number you know is :: " + shortest);
         System.out.println("Your favorite celebrity is :: " + celeb);
-        //System.out.println("Do you have siblings? :: " + yesNo );
-        //System.out.println("Do you have a pet :: " + pet);
-        //System.out.println("You like the number :: " + like);
-        //System.out.println("You hate the number :: " + hate);
-        //System.out.println("The biggest number you can think of is :: " + longest);
-        //System.out.println("The shortest number you can think of is :: " + shortest);
+        System.out.println("Do you have siblings? :: " + yesNo );
     }
 
 }
